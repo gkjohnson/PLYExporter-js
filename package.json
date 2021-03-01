@@ -32,7 +32,7 @@
   ],
   "devDependencies": {
     "eslint-config-mdcs": "^4.2.3",
-    "three": "^0.90.0"
+    "three": "^0.125.0"
   },
   "dependencies": {}
 }
